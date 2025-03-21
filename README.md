@@ -1,5 +1,6 @@
 # 3D Coding Journey 🚀🎨  
 This repository documents my journey in learning how to create and manipulate 3D objects through code.  
+Currently, I have uploaded the Table Lamp! Stay tuned for more.
 
 ## 📌 What's Inside?  
 - 3D models (`.obj`, textures, sounds)  
