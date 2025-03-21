@@ -24,7 +24,8 @@ This repository documents my journey in learning how to create and manipulate 3D
 │       ├── TableLampObj.java     # Handles .obj files used to make the lamp
 ├── lib/                          # Required Libraries  
 ├── Preview/                      # Previews for the objects made 
-│   ├── lamp_preview.png
+│   ├── TableLamp.png
+│   ├── TableLamp.mp4
 ├── docs/                         # Notes about how the lamp was made
 │   ├── lamp_design.md
 ├── README.md                     # Overview of the repository
