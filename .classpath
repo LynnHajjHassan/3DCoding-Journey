@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="add-opens" value="java.base/java.lang=ALL-UNNAMED:java.desktop/sun.java2d=ALL-UNNAMED:java.desktop/sun.awt=ALL-UNNAMED"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Javafiles/3DCodingJourney/lib/java3d-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Javafiles/3DCodingJourney/lib/java3d-examples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Javafiles/3DCodingJourney/lib/java3d-utils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Javafiles/3DCodingJourney/lib/jogamp-fat.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Javafiles/3DCodingJourney/lib/vecmath.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
