@@ -28,7 +28,9 @@ This repository documents my journey in learning how to create and manipulate 3D
 ├── docs/                         # Notes about how the lamp was made
 │   ├── lamp_design.md
 ├── README.md                     # Overview of the repository
-└── .gitignore                    # Ignore unnecessary files
+├── .settings/                    # Project settings (specific to IDEs like Eclipse).
+├── .classpath  &  .project       # Eclipse configuration files.
+└── bin/java3DObjects/            # Compiled bytecode.
 ```
 
 ## How to Run the Project
